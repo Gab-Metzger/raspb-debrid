@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Gab-Metzger/raspb-debrid/issues"
   },
-  "homepage": "https://github.com/Gab-Metzger/raspb-debrid#readme"
+  "homepage": "https://github.com/Gab-Metzger/raspb-debrid#readme",
+  "dependencies": {
+    "superagent": "^1.7.2"
+  }
 }
